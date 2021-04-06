@@ -3,7 +3,7 @@
 #include<iostream>                  //head
 using namespace std;
 //function decelatation below with two parameters
-void addition()                                 // function declaration of addition 
+void addition5363358()                                 // function declaration of addition 
 {
     int val1, val2;
     cout << "Enter your desired number: \n";
@@ -17,7 +17,7 @@ void addition()                                 // function declaration of addit
         cout << "The addition of " << val1 << " and " << val2 << " is: " << val1 << "+" << val2 << "=" << val1 + val2 << endl;
     }
 }
-void subtraction()                           // function declaration of subtraction
+void subtraction5363358()                           // function declaration of subtraction
 {
     int val1, val2;
     cout << "Enter your desired number: \n";
@@ -31,7 +31,7 @@ void subtraction()                           // function declaration of subtract
         cout << "The subtraction of " << val1 << " and " << val2 << " is: " << val1 << "-" << val2 << "=" << val1 - val2 << endl;
     }
 }
-void multiplaction()                               // function declaration of multliplctaion 
+void multiplaction5363358()                               // function declaration of multliplctaion 
 {
     int val1, val2;
     cout << "Enter your desired number: \n";
@@ -45,7 +45,7 @@ void multiplaction()                               // function declaration of mu
         cout << "The multiplication of " << val1 << " and " << val2 << " is: " << val1 << "*" << val2 << "=" << val1 * val2 << endl;
     }
 }
-void division()                                      // function declaration of division
+void division5363358()                                      // function declaration of division
 {
     int val1, val2;
     cout << "Enter your desired number: \n";
@@ -83,16 +83,16 @@ int main()                          // main body starts here
             switch (method)
             {
             case 1:
-                addition();             //function calling addition
+                addition5363358();             //function calling addition
                 break;
             case 2:
-                subtraction();          //function calling subtraction
+                subtraction5363358();          //function calling subtraction
                 break;
             case 3:
-                multiplaction();        //function calling multliplication
+                multiplaction5363358();        //function calling multliplication
                 break;
             case 4:
-                division();             //function calling division
+                division5363358();             //function calling division
                 break;
             default:
             {
